@@ -158,7 +158,7 @@ JSON similar to the following example is returned:
 ```json
 [
     {
-        "date": "2019-07-16T19:04:05.7257911-06:00",
+        "date": "2019-07-16T19:04:05.7267911-06:00",
         "temperatureC": 52,
         "temperatureF": 125,
         "summary": "Mild"
